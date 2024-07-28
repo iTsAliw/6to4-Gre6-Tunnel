@@ -53,11 +53,20 @@ bash <(curl -s https://raw.githubusercontent.com/iTsAliw/6to4-tunnel-ipv6-local/
 <hr>
 <br>
 
+# حمایت
+
+- Tron (TRX): `TMFV8hsmQYQ6NHGv3NRcFhz8RuuGUdbDMi`
+- Bitcoin: `bc1qed3s0v5dldcydhcdg70yx3dvmv76uyxlf38xm9`
+- Tether (TRC20): `TMFV8hsmQYQ6NHGv3NRcFhz8RuuGUdbDMi`
+
+<br>
+<hr>
+<br>
 # تماس با توسعه‌دهنده
 
 اگر سوال یا مشکلی دارید، لطفا به تلگرام ما بپیوندید و از ما حمایت کنید.
 
-
+TM: https://t.me/iTsAliwChannel
 
 
 
