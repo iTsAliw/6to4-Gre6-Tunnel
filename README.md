@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/iTsAliw/6to4-tunnel-ipv6-local" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/27927279/227711552-d2bc1089-5666-477b-9be7-d7e50a5286dc.png">
+      <source media="(prefers-color-scheme: dark)" srcset="">
       <img width="200" height="200" src="https://user-images.githubusercontent.com/27927279/227711552-d2bc1089-5666-477b-9be7-d7e50a5286dc.png">
     </picture>
   </a>
@@ -45,8 +45,45 @@
 <br>
 <br>
 
-# دستور نصب روی Ubuntu-20.4
+# دستور نصب روی Ubuntu
 
 - اگر سرور شما دسترسی روت ندارد، لطفا با دستور sudo -i دسترسی روت بدهید و سپس نصب کنید.
 - آی‌پی سرور خود را تنظیم کنید.
 > دستور نصب را در کنسول وارد کرده و موارد مورد نیاز را برای تکمیل نصب وارد کنید.
+- IPv4 و سایر اطلاعات مورد نیاز را وارد کنید.
+- پیام موفقیت نصب به شما نمایش داده خواهد شد.
+
+<br>
+bash <(curl -s https://raw.githubusercontent.com/iTsAliw/6to4-tunnel-ipv6-local/main/setup.sh)
+<br>
+
+
+# حمایت
+
+- Tron (TRX): `YOUR_TRON_ADDRESS`
+- Bitcoin: `YOUR_BITCOIN_ADDRESS`
+- Dogecoin: `YOUR_DOGECOIN_ADDRESS`
+
+<br>
+<hr>
+<br>
+
+# امکانات
+
+- نصب آسان تونل 6to4
+- پشتیبانی از IPv6 محلی
+- تنظیمات خودکار برای فوروارد ترافیک
+- قابلیت چک کردن وضعیت تونل
+
+<br>
+<hr>
+<br>
+
+# تماس با توسعه‌دهنده
+
+اگر سوال یا مشکلی دارید، لطفا به گروه تلگرام ما بپیوندید و از ما حمایت کنید.
+
+
+
+
+
