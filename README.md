@@ -33,7 +33,7 @@
 > برای حذف تانل سرور را ریبوت کنید.
 > در نظر داشته باشید با ریبوت شدن سرور باید مجدد تانل کنید.
 ```
-bash <(curl -s https://raw.githubusercontent.com/iTsAliw/6to4-tunnel-ipv6-local/main/tunnel-setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/iTsAliw/6to4-Gre6-Tunnel/main/tunnel-setup.sh)
 ```
 
 <br>
