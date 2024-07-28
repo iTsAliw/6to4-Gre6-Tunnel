@@ -16,25 +16,18 @@
     <a href="https://github.com/iTsAliw/6to4-Gre6-Tunnel/releases/latest"> <img src="https://img.shields.io/github/release/iTsAliw/6to4-Gre6-Tunnel.svg" alt="Latest release"/> </a>
 </div>
 
-<br>
-<br>
-    <a align="center">
-        <img src="https://github.com/iTsAliw/6to4-tunnel-ipv6-local/assets/27927279/f6635ea5-ab26-4c64-a7b8-952203f79763" />
-    </a>     
-<br>
-<br>
+
 
 # دستور نصب روی Ubuntu
 
 - اگر سرور شما دسترسی روت ندارد، لطفا با دستور sudo -i دسترسی روت بدهید و سپس نصب کنید.
-- آی‌پی سرور خود را تنظیم کنید.
-> دستور نصب را در کنسول وارد کرده و موارد مورد نیاز را برای تکمیل نصب وارد کنید.
-- IPv4 و سایر اطلاعات مورد نیاز را وارد کنید.
+- دستور نصب را در کنسول وارد کرده و موارد مورد نیاز را برای تکمیل نصب وارد کنید.
 - پیام موفقیت نصب به شما نمایش داده خواهد شد.
-
-<br>
-bash <(curl -s https://raw.githubusercontent.com/iTsAliw/6to4-tunnel-ipv6-local/main/setup.sh)
-<br>
+> برای حذف تانل سرور را ریبوت کنید.
+> در نظر داشته باشید با ریبوت شدن سرور باید مجدد تانل کنید.
+```
+bash <(curl -s https://raw.githubusercontent.com/iTsAliw/6to4-tunnel-ipv6-local/main/tunnel-setup.sh)
+```
 
 
 # حمایت
