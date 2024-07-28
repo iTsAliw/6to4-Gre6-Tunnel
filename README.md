@@ -16,13 +16,7 @@
     <a href="https://github.com/iTsAliw/6to4-Gre6-Tunnel/releases/latest"> <img src="https://img.shields.io/github/release/iTsAliw/6to4-Gre6-Tunnel.svg" alt="Latest release"/> </a>
 </div>
 
-<br>
-<br>
-    <a align="center">
-        <img src="[https://github.com/iTsAliw/6to4-Gre6-Tunnel/blob/main/logo.png]" />
-    </a>     
-<br>
-<br>
+<p align="center"><a href="#"><img src="./p1.png" alt="Image"></a></p>
 
 
 # دستور نصب روی Ubuntu
