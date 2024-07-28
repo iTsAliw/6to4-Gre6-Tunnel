@@ -19,7 +19,7 @@
 <br>
 <br>
     <a align="center">
-        <img src="[https://github.com/iTsAliw/6to4-Gre6-Tunnel/blob/main/photo_2024-07-28_20-32-46.jpg]" />
+        <img src="[https://github.com/iTsAliw/6to4-Gre6-Tunnel/blob/main/logo.png]" />
     </a>     
 <br>
 <br>
