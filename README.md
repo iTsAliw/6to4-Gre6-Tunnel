@@ -12,7 +12,7 @@
 
 <div align="center">
     <a href="https://t.me/iTsAliwChannel"> <img src="https://img.shields.io/badge/TelegramChannel-%230577B8?logo=telegram" alt="Telegram channel"/> </a>
-    <a href="https://github.com/iTsAliw/6to4-Gre6-Tunnel"> <img src="https://img.shields.io/github/stars/Kiya6955/IR-ISP-Blocker?style=flat" alt="GitHub stars"/> </a>
+    <a href="https://github.com/iTsAliw/6to4-Gre6-Tunnel"> <img src="https://img.shields.io/github/stars/iTsAliw/6to4-Gre6-Tunnel?style=flat" alt="GitHub stars"/> </a>
     <a href="https://github.com/iTsAliw/6to4-Gre6-Tunnel/releases/latest"> <img src="https://img.shields.io/github/release/iTsAliw/6to4-Gre6-Tunnel.svg" alt="Latest release"/> </a>
 </div>
 
