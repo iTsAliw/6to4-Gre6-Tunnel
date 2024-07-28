@@ -10,11 +10,10 @@
 این اسکریپت به شما کمک می‌کند تا به راحتی تونل 6to4 را در سرورهای ایران و خارج راه‌اندازی کنید و از IPv6 محلی پشتیبانی کنید. با استفاده از این اسکریپت، می‌توانید به سادگی ترافیک خود را بین دو سرور منتقل کنید و از قابلیت‌های IPv6 بهره‌مند شوید.
 </p>
 
-<div align=center>
-
-[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FiTsAliw&color=blue)]([https://t.me/iTsAliwChannel])
-<img src="https://img.shields.io/github/license/iTsAliw/6to4-tunnel-ipv6-local?style=flat-square" />
-<img src="https://img.shields.io/github/v/release/iTsAliw/6to4-tunnel-ipv6-local.svg" />
+<div align="center">
+    <a href="https://t.me/iTsAliwChannel"> <img src="https://img.shields.io/badge/TelegramChannel-%230577B8?logo=telegram" alt="Telegram channel"/> </a>
+    <a href="https://github.com/iTsAliw/6to4-Gre6-Tunnel"> <img src="https://img.shields.io/github/stars/Kiya6955/IR-ISP-Blocker?style=flat" alt="GitHub stars"/> </a>
+    <a href="https://github.com/iTsAliw/6to4-Gre6-Tunnel/releases/latest"> <img src="https://img.shields.io/github/release/iTsAliw/6to4-Gre6-Tunnel.svg" alt="Latest release"/> </a>
 </div>
 
 <br>
