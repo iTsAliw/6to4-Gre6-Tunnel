@@ -17,10 +17,13 @@
 </div>
 
 
-
+<br>
+<br>
 
 <p align="center"><a href="#"><img src="./p1.png" alt="Image"></a></p>
 
+<br>
+<br>
 
 # دستور نصب روی Ubuntu
 
