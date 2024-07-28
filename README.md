@@ -36,21 +36,16 @@
 bash <(curl -s https://raw.githubusercontent.com/iTsAliw/6to4-tunnel-ipv6-local/main/tunnel-setup.sh)
 ```
 
-
-# حمایت
-
-- Tron (TRX): `YOUR_TRON_ADDRESS`
-- Bitcoin: `YOUR_BITCOIN_ADDRESS`
-- Dogecoin: `YOUR_DOGECOIN_ADDRESS`
-
 <br>
 <hr>
 <br>
 
+
+
 # امکانات
 
 - نصب آسان تونل 6to4
-- پشتیبانی از IPv6 محلی
+- ست شدن IPv6 لوکال به صورت خودکار
 - تنظیمات خودکار برای فوروارد ترافیک
 - قابلیت چک کردن وضعیت تونل
 
@@ -60,7 +55,7 @@ bash <(curl -s https://raw.githubusercontent.com/iTsAliw/6to4-tunnel-ipv6-local/
 
 # تماس با توسعه‌دهنده
 
-اگر سوال یا مشکلی دارید، لطفا به گروه تلگرام ما بپیوندید و از ما حمایت کنید.
+اگر سوال یا مشکلی دارید، لطفا به تلگرام ما بپیوندید و از ما حمایت کنید.
 
 
 
