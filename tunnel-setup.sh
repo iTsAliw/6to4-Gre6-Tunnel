@@ -30,7 +30,7 @@ fi
 setup_iran() {
     IPv4_IRAN=$(hostname -I | awk '{print $1}')
     read -p "$(echo -e ${YELLOW}"IPV4 Kharej ra vared konid (IPv4-KHAREJ): "${NC})" IPv4_KHAREJ
-    IPv6_IRAN="fde8:b030:25cf::de01"
+    IPv6_IRAN="fde8:b030:25cf::de0"
     IPv6_KHAREJ="fde8:b030:25cf::de02"
     GRE6_LOCAL_IP="172.20.20.1"
     GRE6_REMOTE_IP="172.20.20.2"
