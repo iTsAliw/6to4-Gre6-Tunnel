@@ -39,13 +39,11 @@ setup_iran() {
     sudo ip link set IPIP6Tun_To_KH mtu 1436
     sudo ip link set IPIP6Tun_To_KH up
 
-    echo -e "${BLUE}Enabling IP forwarding and NAT on Iran server${NC}" | tee -a $LOG_FILE
-    sudo sysctl -w net.ipv4.ip_forward=1
-    sudo sysctl -w net.ipv6.conf.all.forwarding=1
-
     echo -e "${BLUE}Applying iptables rules...${NC}" | tee -a $LOG_FILE
-    sudo iptables -t nat -A PREROUTING -p tcp --dport 22 -j DNAT --to-destination $IPIP6_REMOTE_IP
-    sudo iptables -t nat -A POSTROUTING -o IPIP6Tun_To_KH -j MASQUERADE
+    sudo sysctl -w net.ipv4.ip_forward=1
+    sudo iptables -t nat -A PREROUTING -p tcp --dport 22 -j DNAT --to-destination 172.20.20.1
+    sudo iptables -t nat -A PREROUTING -j DNAT --to-destination 172.20.20.2
+    sudo iptables -t nat -A POSTROUTING -j MASQUERADE
 
     echo -e "${BLUE}Tunnel setup complete!${NC}" | tee -a $LOG_FILE
     show_menu
